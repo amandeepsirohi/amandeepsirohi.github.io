@@ -1,0 +1,33 @@
+/*main css*/
+
+body {
+    background-color: #FAF7F0;
+}
+
+hr {
+    background-color: #D6E4E5;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 13%;
+}
+
+h1 {
+    color: #497174;
+}
+
+h3,
+a {
+    color: #EB6440;
+}
+
+
+/*class selector*/
+
+.About_me {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:hover {
+    color: green;
+}
